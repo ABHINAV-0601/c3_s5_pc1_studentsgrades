@@ -7,7 +7,7 @@ public class StudentMarks {
         return sum;
     }
 
-    //calculating marks of non-medical pathway students
+    //calculating marks of nonmedical pathway students
     public int calculateMarks(int maths,int physics,int chemistry){
         int sum = maths + physics + chemistry;
         return sum;
